@@ -1,0 +1,5 @@
+---
+url: "https://github.com/divyanshu25/Practice/blob/SWAGGERHUB/json-resolved/swagger.json"
+dom_id: "#swagger-ui"
+validatorUrl: "https://online.swagger.io/validator"
+oauth2RedirectUrl: "http://localhost:3200/oauth2-redirect.html"
